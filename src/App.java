@@ -1,4 +1,4 @@
-/*PATRON METODO FABRICA O METHOD FACTORY */
+/*PATRON METODO FABRICA O METHOD FACTORY que devuelve objetos llamados productos */
 
 
 import servicios.notificaciones.Canal;
